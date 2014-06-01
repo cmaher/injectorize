@@ -1,5 +1,2 @@
 require "injectorize/version"
-
-module Injectorize
-  # Your code goes here...
-end
+require "injectorize/injector"
